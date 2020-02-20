@@ -1,7 +1,7 @@
 git add .
-print "add new file ok!"
+echo "add new file ok!"
 git commit  -m "python study notebook"
-print "commit file ok!"
+echo "commit file ok!"
 git push -u origin master
-print "push to github ok!"
+echo "push to github ok!"
 
